@@ -1,0 +1,35 @@
+﻿div.a {
+    /*margin-left: 20px;*/
+    background-color: deepskyblue;
+    margin-bottom:10px;
+}
+
+div.b {
+    background-color: lawngreen;
+    margin-bottom: 10px;
+}
+
+div.c {
+    background-color: crimson;
+    /*float:right*/
+    margin-bottom:10px;
+}
+
+div.relative {
+    position: relative;
+}
+
+div.absolute {
+    text-align:center;
+    font-size:19px;
+    font-family:Courier New, Courier, monospace;
+    position: absolute;
+    width: 90px;
+    height: 25px;
+    top: 0px;
+    right: 0px;
+    border-left: 1px solid;
+    border-bottom:1px solid;
+    background-color:lightgray;
+    
+}
