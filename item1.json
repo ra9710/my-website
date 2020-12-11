@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Chuck",
+    "description": "Cut from the shoulder; tough but flavorful."
+  },
+  {
+    "name": "Shank",
+    "description": "Cut from the leg; very tough and chewy."
+  },
+  {
+    "name": "Brisket",
+    "description": "Cut from the breast; tough if not cooked properly."
+  },
+  {
+    "name": "Rib",
+    "description": "Cut from the rib area; very tender and flavorful."
+  },
+  {
+    "name": "Short plate",
+    "description": "Cut from the belly of the cow; chewy and quite tough."
+  },
+  {
+    "name": "Flank",
+    "description": "Cut from the abdominal muscles of the cow; one of the toughest cuts."
+  },
+  {
+    "name": "Lion",
+    "description": "Cut from the back of the cow above the ribs; one of the tenderest cuts."
+  },
+  {
+    "name": "Sirloin",
+    "description": "Cut from the back of the cow just past the loin; pretty tender and flavorful."
+  }
+]
